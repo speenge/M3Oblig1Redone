@@ -1,0 +1,16 @@
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.AssemblyInfoInputs.cache
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.AssemblyInfo.cs
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\bin\Debug\net5.0\M3Oblig1Redone.exe
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\bin\Debug\net5.0\M3Oblig1Redone.deps.json
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\bin\Debug\net5.0\M3Oblig1Redone.runtimeconfig.json
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\bin\Debug\net5.0\M3Oblig1Redone.runtimeconfig.dev.json
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\bin\Debug\net5.0\M3Oblig1Redone.dll
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\bin\Debug\net5.0\ref\M3Oblig1Redone.dll
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\bin\Debug\net5.0\M3Oblig1Redone.pdb
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.dll
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\ref\M3Oblig1Redone.dll
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.pdb
+C:\Users\Ad\source\repos\M3Oblig1Redone\M3Oblig1Redone\obj\Debug\net5.0\M3Oblig1Redone.genruntimeconfig.cache

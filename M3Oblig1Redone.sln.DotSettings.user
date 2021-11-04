@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=facfcaf1_002D8302_002D437d_002D9fc6_002D682ece24ae35/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAllFields" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A5187264-8524-4896-A3A1-C27CC2E3D2A8::net5.0::PersonUnitTest.Tests.TestAllFields&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A5187264-8524-4896-A3A1-C27CC2E3D2A8::net5.0::PersonUnitTest.FamilyAppUnitTest.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A5187264-8524-4896-A3A1-C27CC2E3D2A8::net5.0::PersonUnitTest.Tests.TestSomeFields&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A5187264-8524-4896-A3A1-C27CC2E3D2A8::net5.0::PersonUnitTest.FamilyAppUnitTest.IngenFamilieTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A5187264-8524-4896-A3A1-C27CC2E3D2A8::net5.0::PersonUnitTest.FamilyAppUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A5187264-8524-4896-A3A1-C27CC2E3D2A8::net5.0::PersonUnitTest.Tests.TestNoFields&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
